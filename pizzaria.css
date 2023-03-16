@@ -1,0 +1,72 @@
+body {margin: 0;
+    font-family: segoe ui;
+}
+
+header {
+    background-color: #1a1a1a;
+    text-align: center;
+}
+
+header h1 {
+    color: aliceblue;
+    background-color: rgb(51, 51, 51);
+}
+
+header img {
+    height: 150px;
+}
+
+nav {
+    background-color: #1a1a1a;
+    padding: 2px 0px 5px 0px;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav a {
+    color: aliceblue;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+nav a:hover {
+    color: rgb(93, 93, 93);
+    font-weight: bold;
+}
+
+footer {
+    background-color: #1a1a1a;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+footer a:hover {
+    color: rgb(93, 93, 93);
+}
+
+#container {
+    padding: 50px 100px;
+}
+
+#superior {
+    background-color: #1a1a1a;
+    color: aliceblue;
+    display: flex;
+}
+
+#inferior {
+    background-color: rgb(93, 93, 93);
+    color: aliceblue;
+    display: flex;
+}
+
+#Título {
+    background-color: rgb(93, 93, 93);
+    color: aliceblue;
+}
+
+#meio {
+    padding: 5px;
+}
